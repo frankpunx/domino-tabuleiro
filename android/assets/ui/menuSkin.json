@@ -1,0 +1,31 @@
+{
+	"com.badlogic.gdx.graphics.Color": {
+		"white": { "r": 1, "g": 1, "b": 1, "a": 1 },
+		"black": { "r": 0, "g": 0, "b": 0, "a": 1 },
+		"red":   { "r": 1, "g": 0, "b": 0, "a": 1 },
+		"green": { "r": 0, "g": 1, "b": 0, "a": 1 },
+		"blue":  { "r": 0, "g": 0, "b": 1, "a": 1 },
+	},
+	"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+		"white150": { "file": "fonts/font_white.fnt" },
+		"white100": { "file": "fonts/font_white_small.fnt" }
+		
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+		"default": { "font": white150, "fontColor": white }
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": {
+		"default": { "up": "button", "down": "button_down", "over": "button_top", "font": white150, "pressedOffsetX": 1, "pressedOffsetY": -1 },
+		"small": { "up": "button_small", "down": "button_down_small", "over": "button_top_small", "font": white100, "pressedOffsetX": 1, "pressedOffsetY": -1 },
+		"orienta_up": { "up": "button_orienta_up", "down": "button_orienta_up_pressed", "over": "button_orienta_up_top", "font": white100 },
+		"orienta_down": { "up": "button_orienta_down", "down": "button_orienta_down_pressed", "over": "button_orienta_down_top", "font": white100 },
+		"orienta_left": { "up": "button_orienta_left", "down": "button_orienta_left_pressed", "over": "button_orienta_left_top", "font": white100 },
+		"orienta_right": { "up": "button_orienta_right", "down": "button_orienta_right_pressed", "over": "button_orienta_right_top", "font": white100 }
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle": {
+		"default": { "font": white100, "fontColorUnselected": white, "fontColorSelected": white, "selection": "default_blue" }
+	},
+	"com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle": {
+		"default": { }
+	}
+}

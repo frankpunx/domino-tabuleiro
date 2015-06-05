@@ -1,0 +1,144 @@
+
+atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+default_blue
+  rotate: false
+  xy: 0, 844
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+button_down_small
+  rotate: false
+  xy: 1, 718
+  size: 300, 127
+  split: 0, 300, 11, 0
+  orig: 300, 127
+  offset: 0, 0
+  index: -1
+button_small
+  rotate: false
+  xy: 301, 718
+  size: 300, 127
+  split: 0, 300, 0, 12
+  orig: 300, 127
+  offset: 0, 0
+  index: -1
+button_top_small
+  rotate: false
+  xy: 601, 718
+  size: 300, 127
+  split: 0, 300, 0, 11
+  orig: 300, 127
+  offset: 0, 0
+  index: -1
+button_orienta_down
+  rotate: false
+  xy: 0, 550
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_down_pressed
+  rotate: false
+  xy: 168, 550
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_down_top
+  rotate: false
+  xy: 336, 550
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_left
+  rotate: false
+  xy: 504, 550
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_left_pressed
+  rotate: false
+  xy: 672, 550
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_left_top
+  rotate: false
+  xy: 0, 382
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_right
+  rotate: false
+  xy: 168, 382
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_right_pressed
+  rotate: false
+  xy: 336, 382
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_right_top
+  rotate: false
+  xy: 504, 382
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_up
+  rotate: false
+  xy: 672, 382
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_up_pressed
+  rotate: false
+  xy: 0, 214
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button_orienta_up_top
+  rotate: false
+  xy: 168, 214
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 336, 191
+  size: 453, 191
+  split: 0, 453, 0, 18
+  orig: 453, 191
+  offset: 0, 0
+  index: -1
+button_down
+  rotate: false
+  xy: 0, 0
+  size: 453, 191
+  split: 0, 453, 18, 0
+  orig: 453, 191
+  offset: 0, 0
+  index: -1
+button_top
+  rotate: false
+  xy: 453, 0
+  size: 453, 191
+  split: 0, 453, 0, 16
+  orig: 453, 191
+  offset: 0, 0
+  index: -1
